@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Java Practice Test Suite" duration-ms="21614" started-at="2018-04-19T09:54:19Z" finished-at="2018-04-19T09:54:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21614" started-at="2018-04-19T09:54:19Z" finished-at="2018-04-19T09:54:40Z">
+      <class name="JavaWebDriver.switchWindows">
+        <test-method status="PASS" signature="test1()[pri:0, instance:JavaWebDriver.switchWindows@47f37ef1]" name="test1" duration-ms="21572" started-at="2018-04-19T15:24:19Z" finished-at="2018-04-19T15:24:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- JavaWebDriver.switchWindows -->
+    </test> <!-- Test -->
+  </suite> <!-- Java Practice Test Suite -->
+</testng-results>
