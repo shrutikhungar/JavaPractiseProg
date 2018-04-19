@@ -24,6 +24,7 @@ public class switchWindows {
 				System.out.println(handles);
 				driver.switchTo().window(handles);
 			}
+			//closes only current browser window
 			driver.close();
 			driver.quit();	
 		}
