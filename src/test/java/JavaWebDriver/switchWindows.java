@@ -26,6 +26,7 @@ public class switchWindows {
 			}
 			//closes only current browser window
 			driver.close();
+			//closes all browser windows
 			driver.quit();	
 		}
 }
